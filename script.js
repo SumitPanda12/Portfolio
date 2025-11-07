@@ -14,7 +14,7 @@ function initResumeButton() {
     
     if (resumeBtn) {
         resumeBtn.addEventListener('click', function() {
-            window.open('resume.pdf', '_blank', 'noopener');
+            window.open('Resume.pdf', '_blank', 'noopener');
         });
     }
 }
